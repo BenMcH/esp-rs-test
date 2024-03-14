@@ -1,0 +1,3 @@
+[esp-rs-water]
+wifi_ssid="SomeWifi"
+wifi_psk="SomePassword"
